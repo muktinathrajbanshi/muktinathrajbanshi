@@ -1,5 +1,4 @@
-@@ -1 +1,35 @@
-# muktinathrajbansh
+
 [![MasterHead](https://skinfotechieshome.files.wordpress.com/2019/06/banner-1.png)](https://muktinathrajbanshi)
 <h1 align="center">Hi 👋, I'm Muktinath Rajbanshi</h1>
 <h3 align="center">A passionate frontend and backend developer from Nepal</h3>
